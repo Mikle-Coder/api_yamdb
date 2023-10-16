@@ -1,0 +1,7 @@
+id,last_login,is_superuser,is_staff,is_active,date_joined,username,email,bio,role,first_name,last_name,password
+1,2023-10-05 04:53:08.887073,1,1,1,2023-10-05 04:52:49.301899,admin,admin@yamdb.fake,,user,,,pbkdf2_sha256$600000$NarhUHXqYsmKtlH7n2uTKO$32d28lTAH2voLxFiIXKXQM+16AYA2Fivp/aKgHMpTCg=
+100,,0,0,,,bingobongo,bingobongo@yamdb.fake,,user,,,
+101,,1,1,,,capt_obvious,capt_obvious@yamdb.fake,,admin,,,
+102,,0,0,,,faust,faust@yamdb.fake,,user,,,
+103,,0,0,,,reviewer,reviewer@yamdb.fake,,user,,,
+104,,0,1,,,angry,angry@yamdb.fake,,moderator,,,,
